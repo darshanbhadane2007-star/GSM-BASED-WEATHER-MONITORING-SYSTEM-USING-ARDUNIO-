@@ -1,0 +1,2 @@
+# GSM-BASED-WEATHER-MONITORING-SYSTEM-USING-ARDUNIO-
+A GSM-based weather monitoring system using Arduino Uno, SIM800L GSM module, DHT22 (temperature/humidity), BMP280 (pressure), and a rain sensor. The Arduino reads sensor data and sends it via SMS on request or at set intervals, with automatic alerts on threshold breaches. Enables low-cost remote monitoring without internet. Ideal for remote areas. 
